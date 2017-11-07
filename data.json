@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Opera Dulcis",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "38.00 €",
+        "extended": "<p>Girello di vitello cotto a bassa temperatura, terrina di manioca arrosto, barbabietola, grattugiata di rafano, saba e wafer di sesamo<br><br>Tortelli ripieni di patate e porri, burro alle nocciole ai sentori di liquirizia<br><br>Tournedos di maiale bardato allo speck, sedano rapa, carote viola e spinaci all&apos;agro<br><br>Tortino di carote e patate dolci con zabaione e salsa al cioccolato</p><p><b><br>Vini in abbinamento</b></p><p>&quot;Doppio&quot;, pignoletto frizzante doc, 2016, biologico, Tre Monti</p><p>&quot;Campo di mezzo&quot;, sangiovese superiore doc, 2016, biologico, Tre Monti</p><p>&quot;Boldo&quot;, merlot e cabernet doc, 2015, biologico, Tre Monti</p><p>&quot;Casa Lola&quot;, albana dolce docg, 2016, Tre Monti</p><p></p><p></p><p></p><br>cena con vini abbinati inclusi"
+      }
+    ]
+  },
+  {
+    "name": "Da Noi Osteria e Vini",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "32.00 €",
+        "extended": "<p>Sformatino di sedano rapa con salsa speziata<br><br>Gnocchetti di patate con ragout di coniglio<br><br>Medaglione di maiale su letto di porcini con patate croccanti<br><br>Semifreddo alla liquerizia, panna e zenzero</p><p></p><br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Carpe Diem ",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "35.00 €",
+        "extended": "<p>Scrigno di patate alla curcuma con pecorino di fossa e tartufo nero&#xA0;<br><br>Ravioli al nero di olive con mozzarella di bufala e crema di sedano rapa<br><br>Petto di faraona arrostito con arachidi salate, verza stufata e purea al topinambur<br><br>Sbriciolata di Sacher con mousse al lampone e crema inglese allo zenzero</p><br>bevande incluse"
+      }
+    ]
+  },
+  {
+    "name": "Caffè Bologna ",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "30.00 €",
+        "extended": "Tortino di topinambur con vellutata di formaggio<br><br>Capesante alla piastra con crema di patate, olio alle nocciole e scalogno caramellato<br><br><em>In abbinamento: Dubl Brut Feudi di San Gregorio</em><br><br><br>Crema di porri con crostini e tartufo nero<br><br>Passatelli asciutti ai funghi porcini<br><br><em>In abbinamento: Trebbiano d&apos;Abruzzo riserva Marina Cvetic Masciarelli</em><br><br><br>Arrosto di rana pescatrice nel lardo con pur&#xE8; di sedano-rapa<br><br><em>In abbinamento: Garda Classico chiaretto rosa di Notte Montonale</em><br><br><br>Torta di carote e mandorle e crema inglese<br><br><em>In abbinamento: Romagna Albana dolce Fratta Minore&#xA0;</em><br>bevande escluse. Con vini abbinati: &#x20AC; 42,00"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Molino Rosso",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "30.00 €",
+        "extended": "Zuppa di fagioli dall&apos;occhio con topinambur, crostini profumati all&apos;aglio e pancetta croccante<br><br>Flan di zucca con crema di parmigiano<br><br>Crostone di polenta ai funghi porcini<br><br>Pappardelle all&apos;uovo con prosciutto di Parma e scalogno IGP della Romagna<br><br>Cacciatora di coniglio<br><br>Patate rosse arrosto con sale grosso di Cervia e rosmarino<br><br>Finocchio gratinato<br><br>Torta di carote e mandorle con gelato all&apos;amaretto<br>inclusi acqua e un calice di vino"
+      }
+    ]
+  },
+  {
+    "name": "Agriturismo La Marletta",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "35.00 €",
+        "extended": "<p>Ricottina biologica con miele al tartufo e granella di noccioline<br><br>Tortino di patate viola ai funghi porcini&#xA0;<br><br>Garganelli di Imola al pesto di barbabietola rossa e crema di gorgonzola al mascarpone<br><br>Cappellacci di patate al sugo di cinghiale<br><br>Medaglioni di filetto di maiale con crema al tartufo nero<br><br>Patate al forno alla contadina<br><br>Torta di carote e radice di zenzero ripiena al mascarpone</p><br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Osteria del Teatro",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "32.00 €",
+        "extended": "<p>Aperitivo di benvenuto<br><br>Tortino di porcini con salsa porro<br><br>Triangoli di barbabietola rossa con salsa pecorino e semi di papavero<br><br>Scamone glassato al marsala e scalogno<br><br>Patate glassate<br><br>Mousse alla liquirizia con salsa menta</p><br>coperto e servizio compresi, bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Caffè Roma Bistro",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "28.00 €",
+        "extended": "Budino ai porcini con zabaione al sedano e caramello salato all&apos;arancia<br><br>Passatelli su crema di cardi gobbi e tartufo<br><br>Tortelli di patate e burrata con cime di rapa e pecorino sardo<br><br>Filetto di maiale con pav&#xE9; di porri e patate al vin cotto&#xA0;<br><br>Tortino di cioccolato e mela con salsa di carote e zenzero<br><br><br><br>coperto e caff&#xE8; inclusi, bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Anonima Fornelli",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "35.00 €",
+        "extended": "<p>Crema di topinambur, porcini scottati, tempura di zenzero</p><p><br>Tortelli di patate bianche al taleggio e tartufo</p><p><br>Calamaro ripieno di baccal&#xE0; mantecato su crema di patate viola e chips di tuberi</p><p><br>Torta di carote, amaretti e mandorle su crema inglese alla radice di curcuma</p><br>inclusi pane, coperto e acqua"
+      }
+    ]
+  },
+  {
+    "name": "Marsala 18",
+    "menus": [
+      {
+        "name": "Sotto terra, sott'acqua, sottobosco ",
+        "price": "30.00 €",
+        "extended": "<em>Sotto terra ci sono carote, rape, topinambur ed un coniglio...</em><br>...ovvero risotto con tuberi, coniglio e croccante di semi<br><br>Ciambelline di patate Bologna, tartufo e formaggio di fossa<br><br>Sottobosco: rape e carote candite, mandorle, frutti di bosco e crumble al cioccolato<br><br><br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Cucinot",
+    "menus": [
+      {
+        "name": "Ritorno alle radici ",
+        "price": "25.00 €",
+        "extended": "<div>Vellutata di topinambur al latte di cocco</div><br>Gnocchi di patate dolci al rag&#xF9; di cavolo nero<br><br>Cotoletta di sedano rapa&#xA0;<br><br>Pur&#xE8; di carote ai tre colori<br><br>Millefoglie di daikon alle erbe aromatiche<br><br>Torta di rapa rossa ricoperta di cioccolato fondente<br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante E Parlamintè",
+    "menus": [
+      {
+        "name": "Menu di carne ",
+        "price": "29.00 €",
+        "extended": "Sformato di sedano rapa e salsa al tartufo nero<br><br>Tortelloni alla rapa rossa con burro e maggiorana<br><br>Petto di anitra con cipolla caramellata<br><br>Torta di patate<br>compresi pane e coperto, bevande escluse"
+      },
+      {
+        "name": "Menu di pesce ",
+        "price": "29.00 €",
+        "extended": "Insalata di finocchio, arance e gamberi<br><br>Zuppa di scalogno, patate e frutti di mare<br><br>&quot;Fish&apos;n&apos;chips&quot; merluzzo in tempura con patate fiammifero<br><br>Torta di patate<br>compresi pane e coperto, bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "GUT - Birreria e cucineria",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "24.00 €",
+        "extended": "<p>Millefoglie di sedano rapa con formaggio e tartufo<br><br>Gnocchi di topinambur allo scalogno di romagna<br><br>Il maialino nel bosco</p><p>(Filetto di maialino laccato con demi-glace alla birra scura e falso porcino di patata violetta)<br><br>Torta Barozzi con mascarpone</p><br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Donna Laura",
+    "menus": [
+      {
+        "name": "Sotto terra dalle Dolomiti al mare ",
+        "price": "28.00 €",
+        "extended": "<p>La zuppetta di topinambur e legumi con riccio di guanciale croccante e,&#xA0;<br><span style=\"font-size: 1em;\">da sotto la sabbia, i lupini di mare con gli strozzapreti<br><br></span><span style=\"font-size: 1em;\">La patata della Val Pusteria incontra il baccal&#xE0; nelle crocchette <br>con salsa aromatica poi&#xA0;</span><span style=\"font-size: 1em;\">si tuffa <br>con i pomodorini freschi nel sugo chiaro di pesci e crostacei<br><br></span><span style=\"font-size: 1em;\">Dolce esperienza nei profumi d&apos;autunno tra la terra e il cielo</span></p><br>bevande escluse. Degustazione dei tre vini Enotrio &#x20AC; 14,00"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante San Domenico",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "150.00 €",
+        "extended": "Morbidella di robiola,<br>polenta al formaggio di fossa e fonduta al tartufo<br><br>Baccal&#xE0; in tempura al nero di seppia,<br>purea di broccoli e gocce di rapa rossa<br><br>Ravioli di faraona e verza<br>con crema di funghi porcini e galletti allo scalogno<br><br>Risotto mantecato con cipolla tostata,<br>ristretto di sugo d&apos;arrosto caramellato allo zucchero di canna<br><br>Guancialino di vitello<br>con crema di porri bruciati<br><br>La nostra pasticceria<br><br>... <em>Sottoterra</em><br>compresi acqua minerale, degustazione di vini e caff&#xE8;. Esclusi liquori."
+      }
+    ]
+  },
+  {
+    "name": "Ristorante L'Artusi",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "29.00 €",
+        "extended": "Carpaccio di petto di tacchino con pasta di rafano e chips di sedano rapa croccanti al profumo di tartufo<br><br>Vellutata delicata di rapa rossa e polpa di coniglio al rosmarino<br><br>Strozzapreti romagnoli in crema di patate di campo con cipolla dolce e guanciale<br><br>Straccetti di manzo alla curcuma e crocchette dorate di patate&#xA0;<br><br>Torta di carote e zucchine alle mandorle con gocce di cioccolato e zenzero<br><br><br>bevande e vini esclusi"
+      }
+    ]
+  },
+  {
+    "name": "Ristoro Imola",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "20.00 €",
+        "extended": "<strong>mercoled&#xEC; 8 novembre</strong><br>Tortino di patate gratinato<br>Tagliatelle con prosciutto crudo e scalogno<br>Pollo alla cipolla di Tropea e zenzero<br>Semifreddo alle arachidi con salsa al caramello<br><br><strong>mercoled&#xEC; 15 novembre</strong><br>Flan di topinambur<br>Risotto alle verdure con curcuma<br>Arista con purea di sedano rapa e aceto balsamico<br>Torta di carote con crema alla vaniglia<br><br><strong>mercoled&#xEC; 22 novembre</strong><br>Uovo in camicia con salsa ai funghi<br>Tortelli di patate e pancetta al burro e salvia<br>Brasato di manzo al vino rosso con salsa di parmigiano e porri<br>Bavarese alla ricotta con crema di nocciole<br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Osteria Forum Cornelii",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "30.00 €",
+        "extended": "<p>Flan di topinambur con spuma di formaggio di fossa<br><br>Gnocchi di patate e zenzero con pomodorini e ravanelli su crema di porri<br><br>Tagliolini alla curcuma, tartufati con burro di arachidi avvolti in foglia di prosciutto crudo<br><br>Medaglioni di filetto di maiale lardellati con Pata Negra, guarnito con burro al rafano e bruschetta di patata con funghi misti del nostro Appennino<br><br>Torta di carote con mascarpone bianco</p><p></p><br>acqua, caff&#xE8; e coperto inclusi"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante La Volta",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "32.00 €",
+        "extended": "Tortino di topinambur su crema di radice di sedano<br><br>Gnocchetti di rape rosse con salsa al taleggio e gocce di rafano<br><br>Fiocchi di patate ai porri brasati con tartufo nero autunnale<br><br>Gulash di lepre con julienne di verza rossa stufata, profumata all&apos;arancio<br><br>Sorbetto liquirizia e limone<br><br><br><br>bevande comprese. Sconto 10% su presentazione Carta Giovani Comune di Imola"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante La Tavernetta",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "27.00 €",
+        "extended": "<p>Vellutata di porri e patate<br><br>Tortelli di patate al burro<br><br>Taglioline scalogno e prosciutto<br><br>Polenta fritta porcini e squacquerone<br><br>Salame al cioccolato</p><br>caff&#xE8; compreso, bevande escluse "
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Donatello",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "30.00 €",
+        "extended": "Zuppetta tiepida di porri e patate con calamaretti, timo e maggiorana<br><br>Tagliolini in crema leggera di ceci e zenzero con cozze e triglie di scoglio<br><br>Garganelli di Imola alle canocchie e porcini con vellutata di pomodorini di collina&#xA0;<br><br>Filetto di orata in crosta di terra di patate con crema leggera di Tropea e porcini fritti<br><br>Cheesecake ai frutti di bosco con cuore al cioccolato fondente<br><br><br><br>acqua e caff&#xE8; compresi"
+      },
+      {
+        "name": "Menu giovani ",
+        "price": "20.00 €",
+        "extended": "Fantasia di bruschette con verdurine d&apos;orto e formaggi misti<br><br>Crespelle di ricotta e ortiche in crema di Parmigiano Reggiano<br><br>Porchettina di maialino cotto al forno a legna con patate al rosmarino<br><br>Semifreddo ai frutti di bosco<br><br><br><br>acqua e caff&#xE8; compresi"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Hostaria 900",
+    "menus": [
+      {
+        "name": "Menu di carne - I colori del mercato ",
+        "price": "35.00 €",
+        "extended": "Crema di riso con cipolla di Medicina e mele<br><br>Cappellacci di patate, burrata, crema di cime di rape, pere e pecorino di fossa<br><br>Capocollo di maialino di mora romagnola con vellutata di sedano rapa, rafano, scalogno di Romagna e mosto d&apos;uva cotto<br><br>Semifreddo al caff&#xE8; con liquerizia e frutta secca caramellata<br><br><br><br><br>acqua e coperto compresi"
+      },
+      {
+        "name": "Menu di pesce - I sapori del mare ",
+        "price": "35.00 €",
+        "extended": "Ristretto di topinambur con soffice di mascarpone, gamberi in tempura al cioccolato speziato<br><br>Risotto carnaroli su crema di carote, capesante e zenzero<br><br>Filetti di triglie ripiene in salsa di barbabietole<br><br>Soffice al cioccolato Amedei con ananas alla vaniglia, zenzero, sorbetto al lime<br>acqua e coperto compresi"
+      }
+    ]
+  },
+  {
+    "name": "Le Magie di Bacco",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "32.00 €",
+        "extended": "<p>Vellutata di patate viola con speck croccante e gamberone in pastella</p><p><br>Specchio di fagioli cannellini con passatello asciutto e tartufo</p><p><br>Scrigni ripieni di porcini con fonduta di Castelmagno e tartufo scorzone</p><p><br>Hamburger di Kobe con patate rosse schiacciate e olio di Brisighella</p><p><br>Croissant di Quinoa con mascarpone fresco</p><br>servizio e coperto inclusi, bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Agriturismo Frascineti",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "30.00 €",
+        "extended": "<p>Tortino di zucchine e curcuma<br><br>Tortelli di patate al rag&#xF9;<br><br>Tagliatelle con salsa tartufata e tartufo<br><br>Coniglio arrosto con carote<br><br>Patate fritte con rosmarino<br><br>Torta di mele con zenzero e pinoli<br><br></p><p>Vini in abbinamento:<br><br>Pignoletto Rubicone IGT</p><p>Sangiovese Rubicone IGT</p><p></p><br>bevande incluse"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Antico Tre Monti",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "26.00 €",
+        "extended": "Vellutata di patate Tre Monti<br><br>Tagliatelle dello chef Franco con prosciutto e scalogno<br><br>Gnocchetti ai quattro formaggi con tartufo nero<br><br>Tagliata di Chianina agli aghi di rosmarino<br><br>Patate rosse di Imola con cipolle al forno<br><br>Dolci della casa<br><br>Biscotteria della tradizione<br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Officina Sapori",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "35.00 €",
+        "extended": "Cipolla rossa, maionese di rafano, cremoso di parmigiano, chips di topinambur<br><br>Gnocchi di rapa rossa, vongole, latte di cocco, aglio nero, anacardi<br><br>Coscia di coniglio farcita al tartufo nero, patata mantecata profumata alla curcuma, scalogno all&apos;agro<br><br>Ghiacciato di carote, zenzero, spuma di sedano rapa, liquirizia &quot;terra&quot; daikon<br>compresi acqua e caff&#xE8;, altre bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Ristorante Poggio Pollino",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "24.00 €",
+        "extended": "<p>Tortino di patate, fondente di Parmigiano in odor di tartufo<br><br>Crema delicata di cardi<br><br>Gnocchi di patate viola su crema di topinambur e prosciutto croccante<br><br>Lombetto di coniglio con carote all&apos;arancia e zenzero<br><br>Torta di barbabietola e gocce di cioccolato&#xA0;</p><br>Vini esclusi. In abbinamento tre vini proposti da noi a &#x20AC; 6.00"
+      }
+    ]
+  },
+  {
+    "name": "Osteria Calma e Gesso",
+    "menus": [
+      {
+        "name": "Non c'è cosa sotto terra che non venga sopra terra! ",
+        "price": "25.00 €",
+        "extended": "<p>Zuppa di cipolle Igp di Medicina<br><br>Tortelli di patata violetta con guanciale di Amatrice</p><p>*Tortelli di patata violetta al pecorino di fossa Sogliano dop<br><br>Pollo in terracotta su crema di patate curcuma e zenzero</p><p>*Tortino di patate curcuma e zenzero con squacquerone su crema di piselli<br><br>Panna cotta con carote, pera e cannella</p><p></p><br>coperto e piada inclusi"
+      }
+    ]
+  },
+  {
+    "name": "Trattoria Miseria e Nobiltà",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "30.00 €",
+        "extended": "Crema di scalogno e patate in crosta di formaggio di fossa<br><br>Cappellacci verdi ripieni di patate con burro e tartufo nero<br><br>Tagliolini di rapa rossa con funghi porcini al profumo di zenzero<br><br>Guancia di manzo brasata al cabernet con lampascioni caramellati alla cannella e rum<br><br>Torta soffice di pastinaca, topinambur caramellato e crema all&apos;uovo di patata americana<br>bevande escluse"
+      }
+    ]
+  },
+  {
+    "name": "Osteria Callegherie",
+    "menus": [
+      {
+        "name": "Menu",
+        "price": "39.00 €",
+        "extended": "<p>Zuppetta di cardi con crostini di pane e polpettine dorate<br><br>Tramezzino di patate croccante, farcito con mortadella e scamorza, salsa alla zingara<br><br>Risotto mantecato, zucca brasata, funghi porcini e crema di mascarpone<br><br>Taglio di manzo brasato al sangiovese con sformato di polenta e verza, purea di carote all&#x2019;anice<br><br>Semifreddo alle nocciole e anacardi caramellati con crema soffice alla ratafi&#xE0; e uva cotta<br><br>Piccola pasticceria</p><br>bevande escluse - servizio e coperto inclusi"
+      }
+    ]
+  },
+  {
+    "name": "Osteria del Vicolo Nuovo - Da Ambra e Rosa",
+    "menus": [
+      {
+        "name": "Una miniera ricca di profumi e sapori ",
+        "price": "34.00 €",
+        "extended": "<p><i>Un gustoso arcobaleno di benessere&#xA0; </i></p><p>Terrina tricolore di verdure con legumi in cialda croccante e curcuma</p><p>su vellutata di formaggio di fossa di Sogliano<br><br></p><p><i>Miseria e nobilt&#xE0;</i></p><p>Doppi ravioli con Squacquerone di Romagna e&#xA0; patate Dop</p><p>profumati con funghi porcini<br><br></p><p><i>Il buio li fa buoni e belli</i></p><p>Rollatina di coniglio disossato arrostito all&apos;Albana di Romagna con cardi gratinati,</p><p>p&#xE2;t&#xE9; con tartufo e arachidi tostate</p><br>bevande escluse "
+      }
+    ]
+  }
+]

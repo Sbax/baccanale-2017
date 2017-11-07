@@ -6,6 +6,13 @@
             return response.json();
         })
         .then(function(json) {
+            json.sort(function(a, b) {
+                return (
+                    parseFloat(a.menus[0].price.replace(" €")) -
+                    parseFloat(b.menus[0].price.replace(" €"))
+                );
+            });
+
             const element = document.getElementById("menus");
             json.forEach(restaurant => {
                 const container = document.createElement("div"),
